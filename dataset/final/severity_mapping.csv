@@ -1,0 +1,16 @@
+APCCD_Category,Severity
+Roads,High
+Street Lights,Medium
+Water Supply,Critical
+Sewer & Drainage,Critical
+Sanitation,Medium
+Parks & Trees,Low
+Building Maintenance,Medium
+Public Health,High
+Noise Pollution,Low
+Traffic & Parking,Medium
+Encroachment,Medium
+Public Property,Low
+Animal Welfare,Medium
+Food Safety,High
+Public Safety,Critical

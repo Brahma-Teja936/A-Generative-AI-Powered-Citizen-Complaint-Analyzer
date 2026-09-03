@@ -1,0 +1,90 @@
+Complaint_Type,APCCD_Category,Department
+Street Condition,Roads,Roads & Buildings
+Sidewalk Condition,Roads,Roads & Buildings
+Highway Condition,Roads,Roads & Buildings
+Curb Condition,Roads,Roads & Buildings
+Street Light Condition,Street Lights,Electrical Department
+Traffic Signal Condition,Street Lights,Traffic Department
+Water System,Water Supply,Water Department
+WATER LEAK,Water Supply,Water Department
+Water Quality,Water Supply,Water Department
+Drinking Water,Water Supply,Water Department
+Sewer,Sewer & Drainage,Water & Sewerage
+Standing Water,Sewer & Drainage,Water & Sewerage
+Root/Sewer/Sidewalk Condition,Sewer & Drainage,Water & Sewerage
+Dirty Condition,Sanitation,Sanitation Department
+UNSANITARY CONDITION,Sanitation,Sanitation Department
+Damaged Tree,Parks & Trees,Parks Department
+Dead/Dying Tree,Parks & Trees,Parks Department
+Overgrown Tree/Branches,Parks & Trees,Parks Department
+New Tree Request,Parks & Trees,Parks Department
+Illegal Tree Damage,Parks & Trees,Parks Department
+Plant,Parks & Trees,Parks Department
+
+Noise - Residential,Noise Pollution,Pollution Control Board
+Noise - Street/Sidewalk,Noise Pollution,Pollution Control Board
+Noise - Vehicle,Noise Pollution,Pollution Control Board
+Noise - Commercial,Noise Pollution,Pollution Control Board
+Noise - Park,Noise Pollution,Pollution Control Board
+Noise,Noise Pollution,Pollution Control Board
+
+PLUMBING,Building Maintenance,Municipal Engineering Department
+DOOR/WINDOW,Building Maintenance,Municipal Engineering Department
+PAINT/PLASTER,Building Maintenance,Municipal Engineering Department
+GENERAL,Building Maintenance,Municipal Engineering Department
+HEAT/HOT WATER,Building Maintenance,Municipal Engineering Department
+ELECTRIC,Building Maintenance,Electrical Department
+FLOORING/STAIRS,Building Maintenance,Municipal Engineering Department
+APPLIANCE,Building Maintenance,Municipal Engineering Department
+Building/Use,Building Maintenance,Building Department
+Maintenance or Facility,Building Maintenance,Municipal Engineering Department
+Elevator,Building Maintenance,Building Department
+ELEVATOR,Building Maintenance,Building Department
+
+Rodent,Public Health,Health Department
+Lead,Public Health,Health Department
+Indoor Air Quality,Public Health,Health Department
+Air Quality,Public Health,Health Department
+Hazardous Materials,Public Health,Health Department
+Food Poisoning,Public Health,Health Department
+Dead Animal,Public Health,Health Department
+
+Missed Collection,Sanitation,Sanitation Department
+Illegal Dumping,Sanitation,Sanitation Department
+Street Sweeping Complaint,Sanitation,Sanitation Department
+Residential Disposal Complaint,Sanitation,Sanitation Department
+Commercial Disposal Complaint,Sanitation,Sanitation Department
+Dumpster Complaint,Sanitation,Sanitation Department
+Litter Basket Complaint,Sanitation,Sanitation Department
+Litter Basket Request,Sanitation,Sanitation Department
+Wood Pile Remaining,Sanitation,Sanitation Department
+Illegal Parking,Traffic & Parking,Traffic Police
+Blocked Driveway,Traffic & Parking,Traffic Police
+Abandoned Vehicle,Traffic & Parking,Traffic Police
+Derelict Vehicles,Traffic & Parking,Traffic Police
+Traffic,Traffic & Parking,Traffic Police
+
+Vendor Enforcement,Encroachment,Municipal Administration
+Illegal Posting,Encroachment,Municipal Administration
+Obstruction,Encroachment,Municipal Administration
+
+Graffiti,Public Property,Municipal Administration
+
+General Construction/Plumbing,Building Maintenance,Municipal Engineering Department
+
+Food Establishment,Food Safety,Health Department
+
+Water Conservation,Water Supply,Water Department
+
+Smoking or Vaping,Public Health,Health Department
+
+Violation of Park Rules,Parks & Trees,Parks Department
+
+Animal-Abuse,Animal Welfare,Animal Welfare Department
+Animal in a Park,Animal Welfare,Animal Welfare Department
+Unsanitary Animal Pvt Property,Animal Welfare,Animal Welfare Department
+
+Illegal Fireworks,Public Safety,Police Department
+Drug Activity,Public Safety,Police Department
+Drinking,Public Safety,Police Department
+Panhandling,Public Safety,Police Department

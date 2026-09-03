@@ -1,0 +1,632 @@
+complaint,department,severity,priority
+There is a huge pothole near the college entrance and vehicles are almost falling.,Roads & Infrastructure,HIGH,HIGH
+Large pothole causing accidents on the main highway junction.,Roads & Infrastructure,HIGH,HIGH
+Massive crater on arterial road damaged three car axles this morning.,Roads & Infrastructure,HIGH,HIGH
+"Bridge expansion joint has cracked open and concrete is crumbling, posing collapse hazard.",Roads & Infrastructure,CRITICAL,URGENT
+Flyover pillar shows severe structural cracking and rebar exposure.,Roads & Infrastructure,CRITICAL,URGENT
+"Entire stretch of ring road has eroded after rain, vehicles unable to pass.",Roads & Infrastructure,HIGH,HIGH
+Minor uneven asphalt on residential 4th cross lane.,Roads & Infrastructure,LOW,LOW
+Small crack developing along the pedestrian sidewalk pavement.,Roads & Infrastructure,LOW,LOW
+Footpath paving tiles are broken and uneven near post office.,Roads & Infrastructure,MEDIUM,MEDIUM
+Road divider broken by truck and debris blocking one lane.,Roads & Infrastructure,MEDIUM,MEDIUM
+Unmarked speed breaker causing motorcyclists to lose balance at night.,Roads & Infrastructure,HIGH,HIGH
+Road resurfacing left unfinished with loose gravel and sharp stones for two weeks.,Roads & Infrastructure,MEDIUM,MEDIUM
+Deep trench dug across the road for utility work left unbarricaded.,Roads & Infrastructure,CRITICAL,URGENT
+"Road caving in near sewer line, sinkhole forming rapidly.",Roads & Infrastructure,CRITICAL,URGENT
+Faded zebra crossing marks near elementary school causing pedestrian crossing risk.,Roads & Infrastructure,MEDIUM,HIGH
+Curb stones misplaced after storm water drain repair.,Roads & Infrastructure,LOW,LOW
+Contaminated blackish tap water smelling foul coming from municipal line.,Water Supply,CRITICAL,URGENT
+Drinking water pipeline burst flooding the entire colony road with clean water.,Water Supply,HIGH,HIGH
+No municipal water supply for the past five days in block C.,Water Supply,HIGH,HIGH
+"Low water pressure in municipal pipeline, water barely reaches ground floor taps.",Water Supply,MEDIUM,MEDIUM
+Main water distribution pipe cracked and gushing water since early morning.,Water Supply,HIGH,HIGH
+"Sewage water mixing into drinking water supply line, residents falling sick.",Water Supply,CRITICAL,URGENT
+Water meter damaged and leaking slowly outside house number 45.,Water Supply,LOW,LOW
+Irregular water supply timings without prior notification from water board.,Water Supply,LOW,MEDIUM
+"Community water standpost tap missing, water running continuously into drain.",Water Supply,MEDIUM,MEDIUM
+Overhead municipal water storage tank overflowing continuously for hours.,Water Supply,MEDIUM,MEDIUM
+"Water supply contains rust and mud particles, completely unfit for drinking.",Water Supply,HIGH,HIGH
+Commercial water tanker spilled valve causing local pressure drop.,Water Supply,LOW,LOW
+"Water valve chamber cover missing, posing danger to pedestrians and contaminating valve.",Water Supply,HIGH,HIGH
+"Underground reservoir pump broken down, leaving two thousand families without water.",Water Supply,CRITICAL,URGENT
+High voltage electrical wire snapped and hanging dangerously low across street.,Electricity,CRITICAL,URGENT
+Distribution transformer sparking and emitting dense smoke near children play area.,Electricity,CRITICAL,URGENT
+Frequent unannounced power cuts lasting 8 to 10 hours daily in Gandhi Nagar.,Electricity,HIGH,HIGH
+Exposed live electrical wires hanging out of street junction box near bus shelter.,Electricity,CRITICAL,URGENT
+Severe voltage fluctuations blowing up household electronic appliances.,Electricity,HIGH,HIGH
+Rotten wooden electric pole leaning precariously towards residential building.,Electricity,CRITICAL,URGENT
+Electricity meter box outside apartment building sparking during drizzle.,Electricity,HIGH,HIGH
+Low hanging power cables getting tangled with delivery trucks.,Electricity,HIGH,HIGH
+"Substation humming loudly with burning smell, fear of fire explosion.",Electricity,CRITICAL,URGENT
+Temporary festival wiring left tied to metal fence carrying current.,Electricity,CRITICAL,URGENT
+Frequent tripping of local transformer every evening during peak hours.,Electricity,MEDIUM,MEDIUM
+"Electricity meter display blank, unable to read consumption for two months.",Electricity,LOW,LOW
+Old service wire insulation cracked near rooftop terrace.,Electricity,MEDIUM,MEDIUM
+"Public toilet facility near bus terminal choked, overflowing with human waste.",Sanitation,CRITICAL,HIGH
+Stagnant foul-smelling cesspool behind residential market causing unbearable stench.,Sanitation,HIGH,HIGH
+"Public urinal walls broken, no water connection, completely unsanitary condition.",Sanitation,MEDIUM,MEDIUM
+Open defecation occurring along railway boundary due to lack of public latrines.,Sanitation,HIGH,HIGH
+"Community toilet doors broken and lights missing, unusable at night for women.",Sanitation,HIGH,HIGH
+Slaughterhouse blood and animal waste draining openly onto public footpath.,Sanitation,CRITICAL,URGENT
+"Fish market waste not cleaned for three days, creating intense odor and flies.",Sanitation,HIGH,HIGH
+Sewage cleaning workers operating without safety gear in open sewer manhole.,Sanitation,CRITICAL,URGENT
+Sanitary napkin vending machine and disposal incinerator broken in community center.,Sanitation,LOW,LOW
+Stagnant puddles with green algae forming near primary school gate.,Sanitation,MEDIUM,MEDIUM
+Commercial kitchen dumping cooking oil and greasy grease directly into open street.,Sanitation,HIGH,HIGH
+Bio-medical waste dumped openly behind private nursing home.,Sanitation,CRITICAL,URGENT
+Garbage has not been collected for several days and is spilling onto the road.,Waste Management,HIGH,HIGH
+"Overflowing municipal garbage bin attracting stray cattle, dogs, and vultures.",Waste Management,HIGH,HIGH
+Huge garbage dump catching fire and releasing toxic black smoke into neighborhood.,Waste Management,CRITICAL,URGENT
+Door to door waste collection vehicle has not visited our sector for a week.,Waste Management,MEDIUM,MEDIUM
+Construction debris and concrete rubble dumped illegally on vacant public plot.,Waste Management,MEDIUM,MEDIUM
+Rotting vegetable waste dumped by wholesale vendors on service road.,Waste Management,HIGH,HIGH
+Garbage collection compactor leaking foul leach juice onto main road while driving.,Waste Management,MEDIUM,MEDIUM
+Broken plastic community bin overturned and trash scattered across pavement.,Waste Management,MEDIUM,MEDIUM
+Industrial hazardous chemical waste drums dumped near lake bank.,Waste Management,CRITICAL,URGENT
+Dead animal carcass lying on roadside decomposing and causing extreme health hazard.,Waste Management,CRITICAL,URGENT
+Littering of plastic bottles and disposable wrappers along market walkway.,Waste Management,LOW,LOW
+Dry leaves and garden trimmings swept and left in heaps on the sidewalk.,Waste Management,LOW,LOW
+Electronic waste and broken monitors dumped in open field.,Waste Management,MEDIUM,MEDIUM
+Open drainage creating danger for pedestrians and children walking home.,Drainage,CRITICAL,URGENT
+"Stormwater drain clogged with plastic bags, knee-deep waterlogging after mild rain.",Drainage,HIGH,HIGH
+"Broken cement slab over stormwater drain, huge gap where people can fall.",Drainage,CRITICAL,URGENT
+Underground sewer line choked and backflowing into ground floor home bathrooms.,Drainage,CRITICAL,URGENT
+"Sewage manhole cover missing on main boulevard, unbarricaded death trap.",Drainage,CRITICAL,URGENT
+Drainage water overflowing across road and entering shops in market area.,Drainage,HIGH,HIGH
+Culvert blocked with tree branches preventing monsoon runoff flow.,Drainage,HIGH,HIGH
+Open sewer trench emitting foul toxic gases causing nausea in residents.,Drainage,HIGH,HIGH
+Drain cover loosened and rattling loudly every time heavy vehicle drives over it.,Drainage,LOW,LOW
+Slow draining of rainwater on side street due to silt accumulation in gully traps.,Drainage,MEDIUM,MEDIUM
+Illegal connection of industrial effluent pipe into municipal stormwater drain.,Drainage,CRITICAL,URGENT
+Side drain grating rusted through and collapsing under pedestrian weight.,Drainage,HIGH,HIGH
+Pack of aggressive stray dogs attacking pedestrians and two-wheelers at night.,Public Safety,HIGH,HIGH
+Unfenced deep construction pit filled with water near residential playground.,Public Safety,CRITICAL,URGENT
+Abandoned dilapidated building crumbling onto adjacent public pathway.,Public Safety,CRITICAL,URGENT
+Overgrown thorny bushes obscuring blind turn near railway underpass.,Public Safety,HIGH,HIGH
+Rogue elements drinking alcohol and harassing passersby in dark subways.,Public Safety,HIGH,HIGH
+Large rusted hoarding billboard swaying dangerously in high winds over highway.,Public Safety,CRITICAL,URGENT
+"Fire hydrant vandalized, no working water connection in crowded commercial market.",Public Safety,HIGH,HIGH
+Unauthorized barricades blocking emergency ambulance access to colony.,Public Safety,CRITICAL,URGENT
+Slippery moss coating on public footbridge stairs causing multiple slip falls.,Public Safety,MEDIUM,HIGH
+Missing guard rail along steep river embankment road.,Public Safety,CRITICAL,URGENT
+Stray cattle resting in middle of unlit bypass road causing collision risk.,Public Safety,HIGH,HIGH
+Beehive on low tree branch directly outside kindergarten gate.,Public Safety,MEDIUM,HIGH
+Graffiti and minor vandalism on community information board.,Public Safety,LOW,LOW
+Entire sector 14 main street is pitch dark because all streetlights are not working.,Street Lighting,HIGH,HIGH
+"Street light pole knocked down by vehicle, wires exposed on wet ground.",Street Lighting,CRITICAL,URGENT
+Flickering sodium vapor streetlamp making loud buzzing noise all night.,Street Lighting,LOW,LOW
+Dark stretch on women college approach road due to burnt out LED fixtures.,Street Lighting,HIGH,HIGH
+Streetlights remaining switched ON during full daylight hours wasting electricity.,Street Lighting,LOW,LOW
+Streetlight pole rusted at base and wobbling in strong wind.,Street Lighting,HIGH,HIGH
+"Timer switch faulty, street lights turn on only after 10 PM leaving evening dark.",Street Lighting,MEDIUM,MEDIUM
+"Tree branches completely covering street light lamp, blocking all illumination on road.",Street Lighting,MEDIUM,MEDIUM
+"Underpass tunnel lighting completely dark, creating dangerous hazard for drivers.",Street Lighting,HIGH,HIGH
+Pedestrian walkway decorative light globes smashed by miscreants.,Street Lighting,LOW,LOW
+High mast tower light in central circle has half of the floodlights dead.,Street Lighting,MEDIUM,MEDIUM
+"Streetlight underground cable damaged during trenching, 12 consecutive poles unlit.",Street Lighting,HIGH,HIGH
+"Traffic signal at major 4-way intersection not functioning, causing chaos and gridlock.",Traffic,HIGH,HIGH
+Traffic signal stuck on red in all four directions creating massive vehicle pileup.,Traffic,HIGH,HIGH
+Illegal commercial parking blocking two lanes of four lane arterial road.,Traffic,MEDIUM,MEDIUM
+Auto rickshaws parked haphazardly on bus stop bay blocking public buses.,Traffic,MEDIUM,MEDIUM
+Missing one-way traffic sign causing head-on vehicle near-collisions.,Traffic,HIGH,HIGH
+Heavy commercial trucks entering narrow residential streets during restricted hours.,Traffic,HIGH,HIGH
+Speeding vehicles racing on newly paved ring road without speed cameras.,Traffic,HIGH,HIGH
+"Pedestrian signal button broken at hospital crossing, elderly unable to cross.",Traffic,MEDIUM,HIGH
+Broken down vehicle abandoned in middle lane of bridge causing 2 km bottleneck.,Traffic,HIGH,HIGH
+Wrong way driving on flyover ramp posing fatal head-on collision threat.,Traffic,CRITICAL,URGENT
+"Traffic sign post bent and twisted by collision, unreadable to motorists.",Traffic,LOW,LOW
+School zone flashing caution beacon dead for three weeks.,Traffic,MEDIUM,HIGH
+Severe outbreak of dengue cases due to stagnant water pool in government compound.,Public Health,CRITICAL,URGENT
+Mosquito fogging has not been carried out this entire monsoon season in Ward 8.,Public Health,HIGH,HIGH
+Illegal roadside food vendor operating in filthy conditions right beside open sewer.,Public Health,HIGH,HIGH
+Contaminated water causing cholera and gastroenteritis cases in slum pocket.,Public Health,CRITICAL,URGENT
+Dead rats found in public community park water fountain reservoir.,Public Health,HIGH,HIGH
+Primary health center pharmacy has run out of essential anti-rabies vaccines.,Public Health,CRITICAL,URGENT
+Uncovered meat shop waste attracting swarms of flies and stench near primary school.,Public Health,HIGH,HIGH
+Chemical pesticide spraying done without notice causing allergic breathing distress.,Public Health,MEDIUM,HIGH
+Stray dog suspected of rabies bit three people on station road.,Public Health,CRITICAL,URGENT
+Public gym outdoor equipment rusted and harboring tetanus risk.,Public Health,MEDIUM,MEDIUM
+Stagnant water cooler trays in municipal office full of mosquito larvae.,Public Health,MEDIUM,MEDIUM
+No drinking water facility available for patients waiting at public clinic.,Public Health,LOW,MEDIUM
+Huge fallen tree trunk blocking public jogging track and crushing park benches.,Parks & Environment,MEDIUM,MEDIUM
+"Children swing set broken with sharp jagged metal exposed, dangerous for kids.",Parks & Environment,HIGH,HIGH
+Illegal felling of mature green avenue trees along public garden perimeter.,Parks & Environment,HIGH,HIGH
+"Park boundary wall collapsed, stray cows and pigs entering and ruining garden.",Parks & Environment,MEDIUM,MEDIUM
+Public park grass overgrown and turning into haven for snakes and rodents.,Parks & Environment,MEDIUM,MEDIUM
+Lake water covered in toxic chemical froth and hundreds of dead fish floating.,Parks & Environment,CRITICAL,URGENT
+Park sprinkler system pipe cracked and flooding flower beds while lawns dry out.,Parks & Environment,LOW,LOW
+Playground slide has cracked plastic edges cutting children hands.,Parks & Environment,HIGH,HIGH
+Dried dead tree branches about to fall on walking trail walkers.,Parks & Environment,HIGH,HIGH
+Littering of plastic covers and liquor bottles in municipal botanical garden.,Parks & Environment,LOW,LOW
+Solar lights installed in community park stolen or damaged.,Parks & Environment,LOW,LOW
+Encroachment of public green belt park by unauthorized commercial nursery.,Parks & Environment,MEDIUM,MEDIUM
+Civic helpline telephone number 103 continuously disconnected or engaged.,Other,MEDIUM,MEDIUM
+Name board of public memorial park vandalized with offensive paint.,Other,LOW,LOW
+Noise pollution from loud industrial generator running in quiet residential zone all night.,Other,HIGH,HIGH
+Unauthorized religious structure erected blocking public pedestrian easement.,Other,MEDIUM,MEDIUM
+Property tax receipt portal showing server timeout error for three days.,Other,LOW,LOW
+Municipal ward office staff demanding bribe for issuing birth certificate.,Other,HIGH,HIGH
+Community hall AC units leaking water on electrical distribution panel.,Other,HIGH,HIGH
+Notice board glass broken and official notices torn down by vandals.,Other,LOW,LOW
+Dog licensing counter at zonal office closed during advertised public hours.,Other,LOW,LOW
+Unauthorized commercial banners tied across public overhead pedestrian footbridge.,Other,LOW,LOW
+Huge crater in the road causing vehicle damage,Roads & Infrastructure,HIGH,HIGH
+Huge crater in the road causing vehicle damage near the main market.,Roads & Infrastructure,HIGH,HIGH
+Huge crater in the road causing vehicle damage at cross road 4.,Roads & Infrastructure,HIGH,HIGH
+Huge crater in the road causing vehicle damage behind the bus terminal.,Roads & Infrastructure,HIGH,HIGH
+Asphalt road completely broken and eroded after heavy rain,Roads & Infrastructure,HIGH,HIGH
+Asphalt road completely broken and eroded after heavy rain near the main market.,Roads & Infrastructure,HIGH,HIGH
+Asphalt road completely broken and eroded after heavy rain at cross road 4.,Roads & Infrastructure,HIGH,HIGH
+Asphalt road completely broken and eroded after heavy rain behind the bus terminal.,Roads & Infrastructure,HIGH,HIGH
+Dangerous pothole near school gate vehicles almost crashing,Roads & Infrastructure,HIGH,HIGH
+Dangerous pothole near school gate vehicles almost crashing near the main market.,Roads & Infrastructure,HIGH,HIGH
+Dangerous pothole near school gate vehicles almost crashing at cross road 4.,Roads & Infrastructure,HIGH,HIGH
+Dangerous pothole near school gate vehicles almost crashing behind the bus terminal.,Roads & Infrastructure,HIGH,HIGH
+Bridge slab cracked and vibrating when heavy vehicles cross,Roads & Infrastructure,CRITICAL,URGENT
+Bridge slab cracked and vibrating when heavy vehicles cross near the main market.,Roads & Infrastructure,CRITICAL,URGENT
+Bridge slab cracked and vibrating when heavy vehicles cross at cross road 4.,Roads & Infrastructure,CRITICAL,URGENT
+Bridge slab cracked and vibrating when heavy vehicles cross behind the bus terminal.,Roads & Infrastructure,CRITICAL,URGENT
+Underpass road inundated with 3 feet water due to surface depression,Roads & Infrastructure,HIGH,HIGH
+Underpass road inundated with 3 feet water due to surface depression near the main market.,Roads & Infrastructure,HIGH,HIGH
+Underpass road inundated with 3 feet water due to surface depression at cross road 4.,Roads & Infrastructure,HIGH,HIGH
+Underpass road inundated with 3 feet water due to surface depression behind the bus terminal.,Roads & Infrastructure,HIGH,HIGH
+Sidewalk tiles loose and causing pedestrians to stumble,Roads & Infrastructure,LOW,LOW
+Sidewalk tiles loose and causing pedestrians to stumble near the main market.,Roads & Infrastructure,LOW,LOW
+Sidewalk tiles loose and causing pedestrians to stumble at cross road 4.,Roads & Infrastructure,LOW,LOW
+Sidewalk tiles loose and causing pedestrians to stumble behind the bus terminal.,Roads & Infrastructure,LOW,LOW
+Road divider missing reflectors causing night time crashes,Roads & Infrastructure,MEDIUM,HIGH
+Road divider missing reflectors causing night time crashes near the main market.,Roads & Infrastructure,MEDIUM,HIGH
+Road divider missing reflectors causing night time crashes at cross road 4.,Roads & Infrastructure,MEDIUM,HIGH
+Road divider missing reflectors causing night time crashes behind the bus terminal.,Roads & Infrastructure,MEDIUM,HIGH
+Excavation work by telecom company left open without warning signs,Roads & Infrastructure,CRITICAL,URGENT
+Excavation work by telecom company left open without warning signs near the main market.,Roads & Infrastructure,CRITICAL,URGENT
+Excavation work by telecom company left open without warning signs at cross road 4.,Roads & Infrastructure,CRITICAL,URGENT
+Excavation work by telecom company left open without warning signs behind the bus terminal.,Roads & Infrastructure,CRITICAL,URGENT
+Speed bump damaged and sharp metal rods protruding upward,Roads & Infrastructure,HIGH,HIGH
+Speed bump damaged and sharp metal rods protruding upward near the main market.,Roads & Infrastructure,HIGH,HIGH
+Speed bump damaged and sharp metal rods protruding upward at cross road 4.,Roads & Infrastructure,HIGH,HIGH
+Speed bump damaged and sharp metal rods protruding upward behind the bus terminal.,Roads & Infrastructure,HIGH,HIGH
+Road caved in near water pipe joint creating a large hole,Roads & Infrastructure,CRITICAL,URGENT
+Road caved in near water pipe joint creating a large hole near the main market.,Roads & Infrastructure,CRITICAL,URGENT
+Road caved in near water pipe joint creating a large hole at cross road 4.,Roads & Infrastructure,CRITICAL,URGENT
+Road caved in near water pipe joint creating a large hole behind the bus terminal.,Roads & Infrastructure,CRITICAL,URGENT
+Yellowish dirty water with foul stench flowing from kitchen taps,Water Supply,CRITICAL,URGENT
+Yellowish dirty water with foul stench flowing from kitchen taps near the main market.,Water Supply,CRITICAL,URGENT
+Yellowish dirty water with foul stench flowing from kitchen taps at cross road 4.,Water Supply,CRITICAL,URGENT
+Yellowish dirty water with foul stench flowing from kitchen taps behind the bus terminal.,Water Supply,CRITICAL,URGENT
+Drinking water pipeline ruptured on 5th avenue water wastage,Water Supply,HIGH,HIGH
+Drinking water pipeline ruptured on 5th avenue water wastage near the main market.,Water Supply,HIGH,HIGH
+Drinking water pipeline ruptured on 5th avenue water wastage at cross road 4.,Water Supply,HIGH,HIGH
+Drinking water pipeline ruptured on 5th avenue water wastage behind the bus terminal.,Water Supply,HIGH,HIGH
+No water supply for four consecutive days in entire colony,Water Supply,HIGH,HIGH
+No water supply for four consecutive days in entire colony near the main market.,Water Supply,HIGH,HIGH
+No water supply for four consecutive days in entire colony at cross road 4.,Water Supply,HIGH,HIGH
+No water supply for four consecutive days in entire colony behind the bus terminal.,Water Supply,HIGH,HIGH
+Very low pressure water cannot reach overhead storage tanks,Water Supply,MEDIUM,MEDIUM
+Very low pressure water cannot reach overhead storage tanks near the main market.,Water Supply,MEDIUM,MEDIUM
+Very low pressure water cannot reach overhead storage tanks at cross road 4.,Water Supply,MEDIUM,MEDIUM
+Very low pressure water cannot reach overhead storage tanks behind the bus terminal.,Water Supply,MEDIUM,MEDIUM
+Sewage pipeline leaking directly into drinking water line,Water Supply,CRITICAL,URGENT
+Sewage pipeline leaking directly into drinking water line near the main market.,Water Supply,CRITICAL,URGENT
+Sewage pipeline leaking directly into drinking water line at cross road 4.,Water Supply,CRITICAL,URGENT
+Sewage pipeline leaking directly into drinking water line behind the bus terminal.,Water Supply,CRITICAL,URGENT
+Water distribution valve jammed open causing flood on street,Water Supply,MEDIUM,MEDIUM
+Water distribution valve jammed open causing flood on street near the main market.,Water Supply,MEDIUM,MEDIUM
+Water distribution valve jammed open causing flood on street at cross road 4.,Water Supply,MEDIUM,MEDIUM
+Water distribution valve jammed open causing flood on street behind the bus terminal.,Water Supply,MEDIUM,MEDIUM
+Muddy brown water coming from municipal water tap,Water Supply,HIGH,HIGH
+Muddy brown water coming from municipal water tap near the main market.,Water Supply,HIGH,HIGH
+Muddy brown water coming from municipal water tap at cross road 4.,Water Supply,HIGH,HIGH
+Muddy brown water coming from municipal water tap behind the bus terminal.,Water Supply,HIGH,HIGH
+Underground water supply pipe leaking under road pavement,Water Supply,MEDIUM,MEDIUM
+Underground water supply pipe leaking under road pavement near the main market.,Water Supply,MEDIUM,MEDIUM
+Underground water supply pipe leaking under road pavement at cross road 4.,Water Supply,MEDIUM,MEDIUM
+Underground water supply pipe leaking under road pavement behind the bus terminal.,Water Supply,MEDIUM,MEDIUM
+Public drinking water fountain broken and stagnant,Water Supply,LOW,LOW
+Public drinking water fountain broken and stagnant near the main market.,Water Supply,LOW,LOW
+Public drinking water fountain broken and stagnant at cross road 4.,Water Supply,LOW,LOW
+Public drinking water fountain broken and stagnant behind the bus terminal.,Water Supply,LOW,LOW
+Main water pump burned out leaving thousand households dry,Water Supply,CRITICAL,URGENT
+Main water pump burned out leaving thousand households dry near the main market.,Water Supply,CRITICAL,URGENT
+Main water pump burned out leaving thousand households dry at cross road 4.,Water Supply,CRITICAL,URGENT
+Main water pump burned out leaving thousand households dry behind the bus terminal.,Water Supply,CRITICAL,URGENT
+Exposed electrical wire hanging on pedestrian walkway shock danger,Electricity,CRITICAL,URGENT
+Exposed electrical wire hanging on pedestrian walkway shock danger near the main market.,Electricity,CRITICAL,URGENT
+Exposed electrical wire hanging on pedestrian walkway shock danger at cross road 4.,Electricity,CRITICAL,URGENT
+Exposed electrical wire hanging on pedestrian walkway shock danger behind the bus terminal.,Electricity,CRITICAL,URGENT
+Transformer explosion occurred with sparks falling on parked cars,Electricity,CRITICAL,URGENT
+Transformer explosion occurred with sparks falling on parked cars near the main market.,Electricity,CRITICAL,URGENT
+Transformer explosion occurred with sparks falling on parked cars at cross road 4.,Electricity,CRITICAL,URGENT
+Transformer explosion occurred with sparks falling on parked cars behind the bus terminal.,Electricity,CRITICAL,URGENT
+Power outage for past 14 hours in 40 degree heat wave,Electricity,HIGH,HIGH
+Power outage for past 14 hours in 40 degree heat wave near the main market.,Electricity,HIGH,HIGH
+Power outage for past 14 hours in 40 degree heat wave at cross road 4.,Electricity,HIGH,HIGH
+Power outage for past 14 hours in 40 degree heat wave behind the bus terminal.,Electricity,HIGH,HIGH
+Electric pole bent at 45 degree angle after tractor hit it,Electricity,CRITICAL,URGENT
+Electric pole bent at 45 degree angle after tractor hit it near the main market.,Electricity,CRITICAL,URGENT
+Electric pole bent at 45 degree angle after tractor hit it at cross road 4.,Electricity,CRITICAL,URGENT
+Electric pole bent at 45 degree angle after tractor hit it behind the bus terminal.,Electricity,CRITICAL,URGENT
+Sparks flying from feeder pillar whenever it rains,Electricity,HIGH,HIGH
+Sparks flying from feeder pillar whenever it rains near the main market.,Electricity,HIGH,HIGH
+Sparks flying from feeder pillar whenever it rains at cross road 4.,Electricity,HIGH,HIGH
+Sparks flying from feeder pillar whenever it rains behind the bus terminal.,Electricity,HIGH,HIGH
+Severe power fluctuation damaging refrigerator and computer,Electricity,HIGH,HIGH
+Severe power fluctuation damaging refrigerator and computer near the main market.,Electricity,HIGH,HIGH
+Severe power fluctuation damaging refrigerator and computer at cross road 4.,Electricity,HIGH,HIGH
+Severe power fluctuation damaging refrigerator and computer behind the bus terminal.,Electricity,HIGH,HIGH
+Electric meter box door open with bare wires accessible to children,Electricity,CRITICAL,URGENT
+Electric meter box door open with bare wires accessible to children near the main market.,Electricity,CRITICAL,URGENT
+Electric meter box door open with bare wires accessible to children at cross road 4.,Electricity,CRITICAL,URGENT
+Electric meter box door open with bare wires accessible to children behind the bus terminal.,Electricity,CRITICAL,URGENT
+High voltage wire touching tree branches causing flashover fires,Electricity,CRITICAL,URGENT
+High voltage wire touching tree branches causing flashover fires near the main market.,Electricity,CRITICAL,URGENT
+High voltage wire touching tree branches causing flashover fires at cross road 4.,Electricity,CRITICAL,URGENT
+High voltage wire touching tree branches causing flashover fires behind the bus terminal.,Electricity,CRITICAL,URGENT
+Unscheduled load shedding occurring multiple times every day,Electricity,MEDIUM,MEDIUM
+Unscheduled load shedding occurring multiple times every day near the main market.,Electricity,MEDIUM,MEDIUM
+Unscheduled load shedding occurring multiple times every day at cross road 4.,Electricity,MEDIUM,MEDIUM
+Unscheduled load shedding occurring multiple times every day behind the bus terminal.,Electricity,MEDIUM,MEDIUM
+Fallen power line across highway road blocking all traffic,Electricity,CRITICAL,URGENT
+Fallen power line across highway road blocking all traffic near the main market.,Electricity,CRITICAL,URGENT
+Fallen power line across highway road blocking all traffic at cross road 4.,Electricity,CRITICAL,URGENT
+Fallen power line across highway road blocking all traffic behind the bus terminal.,Electricity,CRITICAL,URGENT
+Community toilet choked and raw sewage overflowing in street,Sanitation,CRITICAL,HIGH
+Community toilet choked and raw sewage overflowing in street near the main market.,Sanitation,CRITICAL,HIGH
+Community toilet choked and raw sewage overflowing in street at cross road 4.,Sanitation,CRITICAL,HIGH
+Community toilet choked and raw sewage overflowing in street behind the bus terminal.,Sanitation,CRITICAL,HIGH
+Unbearable stench from open urinal right outside primary school,Sanitation,HIGH,HIGH
+Unbearable stench from open urinal right outside primary school near the main market.,Sanitation,HIGH,HIGH
+Unbearable stench from open urinal right outside primary school at cross road 4.,Sanitation,HIGH,HIGH
+Unbearable stench from open urinal right outside primary school behind the bus terminal.,Sanitation,HIGH,HIGH
+Public latrine without running water and completely filthy condition,Sanitation,MEDIUM,MEDIUM
+Public latrine without running water and completely filthy condition near the main market.,Sanitation,MEDIUM,MEDIUM
+Public latrine without running water and completely filthy condition at cross road 4.,Sanitation,MEDIUM,MEDIUM
+Public latrine without running water and completely filthy condition behind the bus terminal.,Sanitation,MEDIUM,MEDIUM
+Slaughterhouse dumping raw animal entrails into open roadside gutter,Sanitation,CRITICAL,URGENT
+Slaughterhouse dumping raw animal entrails into open roadside gutter near the main market.,Sanitation,CRITICAL,URGENT
+Slaughterhouse dumping raw animal entrails into open roadside gutter at cross road 4.,Sanitation,CRITICAL,URGENT
+Slaughterhouse dumping raw animal entrails into open roadside gutter behind the bus terminal.,Sanitation,CRITICAL,URGENT
+Biohazard waste including syringes dumped in public alleyway,Sanitation,CRITICAL,URGENT
+Biohazard waste including syringes dumped in public alleyway near the main market.,Sanitation,CRITICAL,URGENT
+Biohazard waste including syringes dumped in public alleyway at cross road 4.,Sanitation,CRITICAL,URGENT
+Biohazard waste including syringes dumped in public alleyway behind the bus terminal.,Sanitation,CRITICAL,URGENT
+Open defecation taking place near slum border due to locked toilets,Sanitation,HIGH,HIGH
+Open defecation taking place near slum border due to locked toilets near the main market.,Sanitation,HIGH,HIGH
+Open defecation taking place near slum border due to locked toilets at cross road 4.,Sanitation,HIGH,HIGH
+Open defecation taking place near slum border due to locked toilets behind the bus terminal.,Sanitation,HIGH,HIGH
+Drainage backflow into residential ground floor courtyards,Sanitation,CRITICAL,URGENT
+Drainage backflow into residential ground floor courtyards near the main market.,Sanitation,CRITICAL,URGENT
+Drainage backflow into residential ground floor courtyards at cross road 4.,Sanitation,CRITICAL,URGENT
+Drainage backflow into residential ground floor courtyards behind the bus terminal.,Sanitation,CRITICAL,URGENT
+Meat shop disposing chicken feathers and blood in municipal gutter,Sanitation,HIGH,HIGH
+Meat shop disposing chicken feathers and blood in municipal gutter near the main market.,Sanitation,HIGH,HIGH
+Meat shop disposing chicken feathers and blood in municipal gutter at cross road 4.,Sanitation,HIGH,HIGH
+Meat shop disposing chicken feathers and blood in municipal gutter behind the bus terminal.,Sanitation,HIGH,HIGH
+Public toilet ceiling leaking filthy wastewater on visitors,Sanitation,HIGH,HIGH
+Public toilet ceiling leaking filthy wastewater on visitors near the main market.,Sanitation,HIGH,HIGH
+Public toilet ceiling leaking filthy wastewater on visitors at cross road 4.,Sanitation,HIGH,HIGH
+Public toilet ceiling leaking filthy wastewater on visitors behind the bus terminal.,Sanitation,HIGH,HIGH
+Sanitary disposal bin broken and contents scattered on ground,Sanitation,LOW,LOW
+Sanitary disposal bin broken and contents scattered on ground near the main market.,Sanitation,LOW,LOW
+Sanitary disposal bin broken and contents scattered on ground at cross road 4.,Sanitation,LOW,LOW
+Sanitary disposal bin broken and contents scattered on ground behind the bus terminal.,Sanitation,LOW,LOW
+Garbage has not been lifted for 10 days pile is rotting,Waste Management,HIGH,HIGH
+Garbage has not been lifted for 10 days pile is rotting near the main market.,Waste Management,HIGH,HIGH
+Garbage has not been lifted for 10 days pile is rotting at cross road 4.,Waste Management,HIGH,HIGH
+Garbage has not been lifted for 10 days pile is rotting behind the bus terminal.,Waste Management,HIGH,HIGH
+Community garbage dumper overflowing on road attracting stray animals,Waste Management,HIGH,HIGH
+Community garbage dumper overflowing on road attracting stray animals near the main market.,Waste Management,HIGH,HIGH
+Community garbage dumper overflowing on road attracting stray animals at cross road 4.,Waste Management,HIGH,HIGH
+Community garbage dumper overflowing on road attracting stray animals behind the bus terminal.,Waste Management,HIGH,HIGH
+Open burning of plastic and rubber trash creating suffocating smoke,Waste Management,CRITICAL,URGENT
+Open burning of plastic and rubber trash creating suffocating smoke near the main market.,Waste Management,CRITICAL,URGENT
+Open burning of plastic and rubber trash creating suffocating smoke at cross road 4.,Waste Management,CRITICAL,URGENT
+Open burning of plastic and rubber trash creating suffocating smoke behind the bus terminal.,Waste Management,CRITICAL,URGENT
+Sanitation truck skips our street regularly during morning rounds,Waste Management,MEDIUM,MEDIUM
+Sanitation truck skips our street regularly during morning rounds near the main market.,Waste Management,MEDIUM,MEDIUM
+Sanitation truck skips our street regularly during morning rounds at cross road 4.,Waste Management,MEDIUM,MEDIUM
+Sanitation truck skips our street regularly during morning rounds behind the bus terminal.,Waste Management,MEDIUM,MEDIUM
+Dumping of construction rubble on footpaths forcing walkers onto road,Waste Management,MEDIUM,MEDIUM
+Dumping of construction rubble on footpaths forcing walkers onto road near the main market.,Waste Management,MEDIUM,MEDIUM
+Dumping of construction rubble on footpaths forcing walkers onto road at cross road 4.,Waste Management,MEDIUM,MEDIUM
+Dumping of construction rubble on footpaths forcing walkers onto road behind the bus terminal.,Waste Management,MEDIUM,MEDIUM
+Rotting dead animal lying unattended for two days creating biohazard,Waste Management,CRITICAL,URGENT
+Rotting dead animal lying unattended for two days creating biohazard near the main market.,Waste Management,CRITICAL,URGENT
+Rotting dead animal lying unattended for two days creating biohazard at cross road 4.,Waste Management,CRITICAL,URGENT
+Rotting dead animal lying unattended for two days creating biohazard behind the bus terminal.,Waste Management,CRITICAL,URGENT
+Garbage bin overturned by stray cows waste scattered everywhere,Waste Management,MEDIUM,MEDIUM
+Garbage bin overturned by stray cows waste scattered everywhere near the main market.,Waste Management,MEDIUM,MEDIUM
+Garbage bin overturned by stray cows waste scattered everywhere at cross road 4.,Waste Management,MEDIUM,MEDIUM
+Garbage bin overturned by stray cows waste scattered everywhere behind the bus terminal.,Waste Management,MEDIUM,MEDIUM
+Commercial market dumping cartons and spoiled food on roadside,Waste Management,MEDIUM,MEDIUM
+Commercial market dumping cartons and spoiled food on roadside near the main market.,Waste Management,MEDIUM,MEDIUM
+Commercial market dumping cartons and spoiled food on roadside at cross road 4.,Waste Management,MEDIUM,MEDIUM
+Commercial market dumping cartons and spoiled food on roadside behind the bus terminal.,Waste Management,MEDIUM,MEDIUM
+Toxic chemical containers abandoned on vacant municipal land,Waste Management,CRITICAL,URGENT
+Toxic chemical containers abandoned on vacant municipal land near the main market.,Waste Management,CRITICAL,URGENT
+Toxic chemical containers abandoned on vacant municipal land at cross road 4.,Waste Management,CRITICAL,URGENT
+Toxic chemical containers abandoned on vacant municipal land behind the bus terminal.,Waste Management,CRITICAL,URGENT
+Plastic bags and litter blowing across neighborhood from unmanaged dump,Waste Management,LOW,LOW
+Plastic bags and litter blowing across neighborhood from unmanaged dump near the main market.,Waste Management,LOW,LOW
+Plastic bags and litter blowing across neighborhood from unmanaged dump at cross road 4.,Waste Management,LOW,LOW
+Plastic bags and litter blowing across neighborhood from unmanaged dump behind the bus terminal.,Waste Management,LOW,LOW
+Open manhole on busy road with no barricade or warning sign,Drainage,CRITICAL,URGENT
+Open manhole on busy road with no barricade or warning sign near the main market.,Drainage,CRITICAL,URGENT
+Open manhole on busy road with no barricade or warning sign at cross road 4.,Drainage,CRITICAL,URGENT
+Open manhole on busy road with no barricade or warning sign behind the bus terminal.,Drainage,CRITICAL,URGENT
+Stormwater drain completely blocked waterlogging road up to two feet,Drainage,HIGH,HIGH
+Stormwater drain completely blocked waterlogging road up to two feet near the main market.,Drainage,HIGH,HIGH
+Stormwater drain completely blocked waterlogging road up to two feet at cross road 4.,Drainage,HIGH,HIGH
+Stormwater drain completely blocked waterlogging road up to two feet behind the bus terminal.,Drainage,HIGH,HIGH
+Concrete slab over drainage canal collapsed someone could fall in,Drainage,CRITICAL,URGENT
+Concrete slab over drainage canal collapsed someone could fall in near the main market.,Drainage,CRITICAL,URGENT
+Concrete slab over drainage canal collapsed someone could fall in at cross road 4.,Drainage,CRITICAL,URGENT
+Concrete slab over drainage canal collapsed someone could fall in behind the bus terminal.,Drainage,CRITICAL,URGENT
+Sewage pipeline burst spilling black waste water over main junction,Drainage,CRITICAL,URGENT
+Sewage pipeline burst spilling black waste water over main junction near the main market.,Drainage,CRITICAL,URGENT
+Sewage pipeline burst spilling black waste water over main junction at cross road 4.,Drainage,CRITICAL,URGENT
+Sewage pipeline burst spilling black waste water over main junction behind the bus terminal.,Drainage,CRITICAL,URGENT
+Underground drain choked causing foul water to back up into houses,Drainage,HIGH,HIGH
+Underground drain choked causing foul water to back up into houses near the main market.,Drainage,HIGH,HIGH
+Underground drain choked causing foul water to back up into houses at cross road 4.,Drainage,HIGH,HIGH
+Underground drain choked causing foul water to back up into houses behind the bus terminal.,Drainage,HIGH,HIGH
+Monsoon rainwater cannot drain because silt covers all entry grates,Drainage,HIGH,HIGH
+Monsoon rainwater cannot drain because silt covers all entry grates near the main market.,Drainage,HIGH,HIGH
+Monsoon rainwater cannot drain because silt covers all entry grates at cross road 4.,Drainage,HIGH,HIGH
+Monsoon rainwater cannot drain because silt covers all entry grates behind the bus terminal.,Drainage,HIGH,HIGH
+Open sewer emitting toxic gases causing headaches and coughing,Drainage,HIGH,HIGH
+Open sewer emitting toxic gases causing headaches and coughing near the main market.,Drainage,HIGH,HIGH
+Open sewer emitting toxic gases causing headaches and coughing at cross road 4.,Drainage,HIGH,HIGH
+Open sewer emitting toxic gases causing headaches and coughing behind the bus terminal.,Drainage,HIGH,HIGH
+Drainage ditch overflowing into vegetable market after brief rain,Drainage,HIGH,HIGH
+Drainage ditch overflowing into vegetable market after brief rain near the main market.,Drainage,HIGH,HIGH
+Drainage ditch overflowing into vegetable market after brief rain at cross road 4.,Drainage,HIGH,HIGH
+Drainage ditch overflowing into vegetable market after brief rain behind the bus terminal.,Drainage,HIGH,HIGH
+Loose manhole cover making loud banging noise whenever vehicles pass,Drainage,LOW,LOW
+Loose manhole cover making loud banging noise whenever vehicles pass near the main market.,Drainage,LOW,LOW
+Loose manhole cover making loud banging noise whenever vehicles pass at cross road 4.,Drainage,LOW,LOW
+Loose manhole cover making loud banging noise whenever vehicles pass behind the bus terminal.,Drainage,LOW,LOW
+Rainwater drain pipe broken and dumping water onto pedestrian bridge,Drainage,MEDIUM,MEDIUM
+Rainwater drain pipe broken and dumping water onto pedestrian bridge near the main market.,Drainage,MEDIUM,MEDIUM
+Rainwater drain pipe broken and dumping water onto pedestrian bridge at cross road 4.,Drainage,MEDIUM,MEDIUM
+Rainwater drain pipe broken and dumping water onto pedestrian bridge behind the bus terminal.,Drainage,MEDIUM,MEDIUM
+Feral aggressive dogs chasing scooters and biting pedestrians,Public Safety,HIGH,HIGH
+Feral aggressive dogs chasing scooters and biting pedestrians near the main market.,Public Safety,HIGH,HIGH
+Feral aggressive dogs chasing scooters and biting pedestrians at cross road 4.,Public Safety,HIGH,HIGH
+Feral aggressive dogs chasing scooters and biting pedestrians behind the bus terminal.,Public Safety,HIGH,HIGH
+Deep unprotected trench dug near playground kids playing nearby,Public Safety,CRITICAL,URGENT
+Deep unprotected trench dug near playground kids playing nearby near the main market.,Public Safety,CRITICAL,URGENT
+Deep unprotected trench dug near playground kids playing nearby at cross road 4.,Public Safety,CRITICAL,URGENT
+Deep unprotected trench dug near playground kids playing nearby behind the bus terminal.,Public Safety,CRITICAL,URGENT
+Old dilapidated municipal wall tilting towards public footpath,Public Safety,CRITICAL,URGENT
+Old dilapidated municipal wall tilting towards public footpath near the main market.,Public Safety,CRITICAL,URGENT
+Old dilapidated municipal wall tilting towards public footpath at cross road 4.,Public Safety,CRITICAL,URGENT
+Old dilapidated municipal wall tilting towards public footpath behind the bus terminal.,Public Safety,CRITICAL,URGENT
+No safety fencing along deep quarry pit near residential colony,Public Safety,CRITICAL,URGENT
+No safety fencing along deep quarry pit near residential colony near the main market.,Public Safety,CRITICAL,URGENT
+No safety fencing along deep quarry pit near residential colony at cross road 4.,Public Safety,CRITICAL,URGENT
+No safety fencing along deep quarry pit near residential colony behind the bus terminal.,Public Safety,CRITICAL,URGENT
+Unsocial elements gambling and drinking liquor in public subway,Public Safety,HIGH,HIGH
+Unsocial elements gambling and drinking liquor in public subway near the main market.,Public Safety,HIGH,HIGH
+Unsocial elements gambling and drinking liquor in public subway at cross road 4.,Public Safety,HIGH,HIGH
+Unsocial elements gambling and drinking liquor in public subway behind the bus terminal.,Public Safety,HIGH,HIGH
+Massive advertising billboard loose and swinging in thunderstorm,Public Safety,CRITICAL,URGENT
+Massive advertising billboard loose and swinging in thunderstorm near the main market.,Public Safety,CRITICAL,URGENT
+Massive advertising billboard loose and swinging in thunderstorm at cross road 4.,Public Safety,CRITICAL,URGENT
+Massive advertising billboard loose and swinging in thunderstorm behind the bus terminal.,Public Safety,CRITICAL,URGENT
+Fire escape door locked in public commercial shopping complex,Public Safety,CRITICAL,URGENT
+Fire escape door locked in public commercial shopping complex near the main market.,Public Safety,CRITICAL,URGENT
+Fire escape door locked in public commercial shopping complex at cross road 4.,Public Safety,CRITICAL,URGENT
+Fire escape door locked in public commercial shopping complex behind the bus terminal.,Public Safety,CRITICAL,URGENT
+Stray cattle wandering on dark expressway causing fatal vehicle crashes,Public Safety,CRITICAL,URGENT
+Stray cattle wandering on dark expressway causing fatal vehicle crashes near the main market.,Public Safety,CRITICAL,URGENT
+Stray cattle wandering on dark expressway causing fatal vehicle crashes at cross road 4.,Public Safety,CRITICAL,URGENT
+Stray cattle wandering on dark expressway causing fatal vehicle crashes behind the bus terminal.,Public Safety,CRITICAL,URGENT
+Overhanging dead tree limb ready to crash down on passing vehicles,Public Safety,HIGH,HIGH
+Overhanging dead tree limb ready to crash down on passing vehicles near the main market.,Public Safety,HIGH,HIGH
+Overhanging dead tree limb ready to crash down on passing vehicles at cross road 4.,Public Safety,HIGH,HIGH
+Overhanging dead tree limb ready to crash down on passing vehicles behind the bus terminal.,Public Safety,HIGH,HIGH
+Broken handrail on high pedestrian foot overbridge above tracks,Public Safety,HIGH,HIGH
+Broken handrail on high pedestrian foot overbridge above tracks near the main market.,Public Safety,HIGH,HIGH
+Broken handrail on high pedestrian foot overbridge above tracks at cross road 4.,Public Safety,HIGH,HIGH
+Broken handrail on high pedestrian foot overbridge above tracks behind the bus terminal.,Public Safety,HIGH,HIGH
+All streetlights out for 2 kilometers pitch dark road unsafe for women,Street Lighting,HIGH,HIGH
+All streetlights out for 2 kilometers pitch dark road unsafe for women near the main market.,Street Lighting,HIGH,HIGH
+All streetlights out for 2 kilometers pitch dark road unsafe for women at cross road 4.,Street Lighting,HIGH,HIGH
+All streetlights out for 2 kilometers pitch dark road unsafe for women behind the bus terminal.,Street Lighting,HIGH,HIGH
+Streetlight electric pole damaged with live wires exposed on sidewalk,Street Lighting,CRITICAL,URGENT
+Streetlight electric pole damaged with live wires exposed on sidewalk near the main market.,Street Lighting,CRITICAL,URGENT
+Streetlight electric pole damaged with live wires exposed on sidewalk at cross road 4.,Street Lighting,CRITICAL,URGENT
+Streetlight electric pole damaged with live wires exposed on sidewalk behind the bus terminal.,Street Lighting,CRITICAL,URGENT
+Street lamp flickering constantly causing disorientation at night,Street Lighting,LOW,LOW
+Street lamp flickering constantly causing disorientation at night near the main market.,Street Lighting,LOW,LOW
+Street lamp flickering constantly causing disorientation at night at cross road 4.,Street Lighting,LOW,LOW
+Street lamp flickering constantly causing disorientation at night behind the bus terminal.,Street Lighting,LOW,LOW
+Streetlights turned on in broad daylight wasting public power,Street Lighting,LOW,LOW
+Streetlights turned on in broad daylight wasting public power near the main market.,Street Lighting,LOW,LOW
+Streetlights turned on in broad daylight wasting public power at cross road 4.,Street Lighting,LOW,LOW
+Streetlights turned on in broad daylight wasting public power behind the bus terminal.,Street Lighting,LOW,LOW
+Dark alleyway near girls hostel where streetlights have been burnt out,Street Lighting,HIGH,HIGH
+Dark alleyway near girls hostel where streetlights have been burnt out near the main market.,Street Lighting,HIGH,HIGH
+Dark alleyway near girls hostel where streetlights have been burnt out at cross road 4.,Street Lighting,HIGH,HIGH
+Dark alleyway near girls hostel where streetlights have been burnt out behind the bus terminal.,Street Lighting,HIGH,HIGH
+Underpass illumination completely dead driving through is hazardous,Street Lighting,HIGH,HIGH
+Underpass illumination completely dead driving through is hazardous near the main market.,Street Lighting,HIGH,HIGH
+Underpass illumination completely dead driving through is hazardous at cross road 4.,Street Lighting,HIGH,HIGH
+Underpass illumination completely dead driving through is hazardous behind the bus terminal.,Street Lighting,HIGH,HIGH
+Rusted lamp post leaning heavily over parked cars and footpath,Street Lighting,HIGH,HIGH
+Rusted lamp post leaning heavily over parked cars and footpath near the main market.,Street Lighting,HIGH,HIGH
+Rusted lamp post leaning heavily over parked cars and footpath at cross road 4.,Street Lighting,HIGH,HIGH
+Rusted lamp post leaning heavily over parked cars and footpath behind the bus terminal.,Street Lighting,HIGH,HIGH
+Streetlight timer broken lights turn on after midnight only,Street Lighting,MEDIUM,MEDIUM
+Streetlight timer broken lights turn on after midnight only near the main market.,Street Lighting,MEDIUM,MEDIUM
+Streetlight timer broken lights turn on after midnight only at cross road 4.,Street Lighting,MEDIUM,MEDIUM
+Streetlight timer broken lights turn on after midnight only behind the bus terminal.,Street Lighting,MEDIUM,MEDIUM
+Dense tree leaves covering street lights road remains completely dark,Street Lighting,MEDIUM,MEDIUM
+Dense tree leaves covering street lights road remains completely dark near the main market.,Street Lighting,MEDIUM,MEDIUM
+Dense tree leaves covering street lights road remains completely dark at cross road 4.,Street Lighting,MEDIUM,MEDIUM
+Dense tree leaves covering street lights road remains completely dark behind the bus terminal.,Street Lighting,MEDIUM,MEDIUM
+High mast LED floodlights in bus terminus stopped working,Street Lighting,MEDIUM,HIGH
+High mast LED floodlights in bus terminus stopped working near the main market.,Street Lighting,MEDIUM,HIGH
+High mast LED floodlights in bus terminus stopped working at cross road 4.,Street Lighting,MEDIUM,HIGH
+High mast LED floodlights in bus terminus stopped working behind the bus terminal.,Street Lighting,MEDIUM,HIGH
+Traffic signal non functional at major intersection four way gridlock,Traffic,HIGH,HIGH
+Traffic signal non functional at major intersection four way gridlock near the main market.,Traffic,HIGH,HIGH
+Traffic signal non functional at major intersection four way gridlock at cross road 4.,Traffic,HIGH,HIGH
+Traffic signal non functional at major intersection four way gridlock behind the bus terminal.,Traffic,HIGH,HIGH
+Signal stuck on green both sides causing vehicles to collide,Traffic,CRITICAL,URGENT
+Signal stuck on green both sides causing vehicles to collide near the main market.,Traffic,CRITICAL,URGENT
+Signal stuck on green both sides causing vehicles to collide at cross road 4.,Traffic,CRITICAL,URGENT
+Signal stuck on green both sides causing vehicles to collide behind the bus terminal.,Traffic,CRITICAL,URGENT
+Illegal truck parking on both sides of two lane road blocking traffic,Traffic,MEDIUM,MEDIUM
+Illegal truck parking on both sides of two lane road blocking traffic near the main market.,Traffic,MEDIUM,MEDIUM
+Illegal truck parking on both sides of two lane road blocking traffic at cross road 4.,Traffic,MEDIUM,MEDIUM
+Illegal truck parking on both sides of two lane road blocking traffic behind the bus terminal.,Traffic,MEDIUM,MEDIUM
+Missing STOP sign and blind curve warning at dangerous crossroads,Traffic,HIGH,HIGH
+Missing STOP sign and blind curve warning at dangerous crossroads near the main market.,Traffic,HIGH,HIGH
+Missing STOP sign and blind curve warning at dangerous crossroads at cross road 4.,Traffic,HIGH,HIGH
+Missing STOP sign and blind curve warning at dangerous crossroads behind the bus terminal.,Traffic,HIGH,HIGH
+Heavy vehicles speeding through school zone during morning hours,Traffic,HIGH,HIGH
+Heavy vehicles speeding through school zone during morning hours near the main market.,Traffic,HIGH,HIGH
+Heavy vehicles speeding through school zone during morning hours at cross road 4.,Traffic,HIGH,HIGH
+Heavy vehicles speeding through school zone during morning hours behind the bus terminal.,Traffic,HIGH,HIGH
+Wrong side driving on highway exit ramp creating fatal hazard,Traffic,CRITICAL,URGENT
+Wrong side driving on highway exit ramp creating fatal hazard near the main market.,Traffic,CRITICAL,URGENT
+Wrong side driving on highway exit ramp creating fatal hazard at cross road 4.,Traffic,CRITICAL,URGENT
+Wrong side driving on highway exit ramp creating fatal hazard behind the bus terminal.,Traffic,CRITICAL,URGENT
+Buses stopping in middle of road instead of designated bus bays,Traffic,MEDIUM,MEDIUM
+Buses stopping in middle of road instead of designated bus bays near the main market.,Traffic,MEDIUM,MEDIUM
+Buses stopping in middle of road instead of designated bus bays at cross road 4.,Traffic,MEDIUM,MEDIUM
+Buses stopping in middle of road instead of designated bus bays behind the bus terminal.,Traffic,MEDIUM,MEDIUM
+Pedestrian crossing light broken people unable to cross six lane road,Traffic,HIGH,HIGH
+Pedestrian crossing light broken people unable to cross six lane road near the main market.,Traffic,HIGH,HIGH
+Pedestrian crossing light broken people unable to cross six lane road at cross road 4.,Traffic,HIGH,HIGH
+Pedestrian crossing light broken people unable to cross six lane road behind the bus terminal.,Traffic,HIGH,HIGH
+Accident vehicles left stranded in fast lane causing 5km traffic jam,Traffic,HIGH,HIGH
+Accident vehicles left stranded in fast lane causing 5km traffic jam near the main market.,Traffic,HIGH,HIGH
+Accident vehicles left stranded in fast lane causing 5km traffic jam at cross road 4.,Traffic,HIGH,HIGH
+Accident vehicles left stranded in fast lane causing 5km traffic jam behind the bus terminal.,Traffic,HIGH,HIGH
+Traffic direction arrow signage misleading drivers into wrong way street,Traffic,MEDIUM,HIGH
+Traffic direction arrow signage misleading drivers into wrong way street near the main market.,Traffic,MEDIUM,HIGH
+Traffic direction arrow signage misleading drivers into wrong way street at cross road 4.,Traffic,MEDIUM,HIGH
+Traffic direction arrow signage misleading drivers into wrong way street behind the bus terminal.,Traffic,MEDIUM,HIGH
+Outbreak of malaria and dengue due to stagnant puddle in vacant ground,Public Health,CRITICAL,URGENT
+Outbreak of malaria and dengue due to stagnant puddle in vacant ground near the main market.,Public Health,CRITICAL,URGENT
+Outbreak of malaria and dengue due to stagnant puddle in vacant ground at cross road 4.,Public Health,CRITICAL,URGENT
+Outbreak of malaria and dengue due to stagnant puddle in vacant ground behind the bus terminal.,Public Health,CRITICAL,URGENT
+Mosquito breeding heavy in open drain municipal fogging needed urgently,Public Health,HIGH,HIGH
+Mosquito breeding heavy in open drain municipal fogging needed urgently near the main market.,Public Health,HIGH,HIGH
+Mosquito breeding heavy in open drain municipal fogging needed urgently at cross road 4.,Public Health,HIGH,HIGH
+Mosquito breeding heavy in open drain municipal fogging needed urgently behind the bus terminal.,Public Health,HIGH,HIGH
+Contaminated drinking water causing gastro illness among children,Public Health,CRITICAL,URGENT
+Contaminated drinking water causing gastro illness among children near the main market.,Public Health,CRITICAL,URGENT
+Contaminated drinking water causing gastro illness among children at cross road 4.,Public Health,CRITICAL,URGENT
+Contaminated drinking water causing gastro illness among children behind the bus terminal.,Public Health,CRITICAL,URGENT
+Rabid dog bitten several people on market street needs animal control,Public Health,CRITICAL,URGENT
+Rabid dog bitten several people on market street needs animal control near the main market.,Public Health,CRITICAL,URGENT
+Rabid dog bitten several people on market street needs animal control at cross road 4.,Public Health,CRITICAL,URGENT
+Rabid dog bitten several people on market street needs animal control behind the bus terminal.,Public Health,CRITICAL,URGENT
+Rotting meat and dead birds disposed in open lot creating infection risk,Public Health,CRITICAL,URGENT
+Rotting meat and dead birds disposed in open lot creating infection risk near the main market.,Public Health,CRITICAL,URGENT
+Rotting meat and dead birds disposed in open lot creating infection risk at cross road 4.,Public Health,CRITICAL,URGENT
+Rotting meat and dead birds disposed in open lot creating infection risk behind the bus terminal.,Public Health,CRITICAL,URGENT
+Hospital clinic lacks basic tetanus injections and snake antivenom,Public Health,CRITICAL,URGENT
+Hospital clinic lacks basic tetanus injections and snake antivenom near the main market.,Public Health,CRITICAL,URGENT
+Hospital clinic lacks basic tetanus injections and snake antivenom at cross road 4.,Public Health,CRITICAL,URGENT
+Hospital clinic lacks basic tetanus injections and snake antivenom behind the bus terminal.,Public Health,CRITICAL,URGENT
+Roadside food stalls washing plates in filthy drain water,Public Health,HIGH,HIGH
+Roadside food stalls washing plates in filthy drain water near the main market.,Public Health,HIGH,HIGH
+Roadside food stalls washing plates in filthy drain water at cross road 4.,Public Health,HIGH,HIGH
+Roadside food stalls washing plates in filthy drain water behind the bus terminal.,Public Health,HIGH,HIGH
+Chemical fumes from unlicensed battery workshop causing breathing issues,Public Health,HIGH,HIGH
+Chemical fumes from unlicensed battery workshop causing breathing issues near the main market.,Public Health,HIGH,HIGH
+Chemical fumes from unlicensed battery workshop causing breathing issues at cross road 4.,Public Health,HIGH,HIGH
+Chemical fumes from unlicensed battery workshop causing breathing issues behind the bus terminal.,Public Health,HIGH,HIGH
+Stagnant water in park fountain turned into mosquito nursery,Public Health,MEDIUM,MEDIUM
+Stagnant water in park fountain turned into mosquito nursery near the main market.,Public Health,MEDIUM,MEDIUM
+Stagnant water in park fountain turned into mosquito nursery at cross road 4.,Public Health,MEDIUM,MEDIUM
+Stagnant water in park fountain turned into mosquito nursery behind the bus terminal.,Public Health,MEDIUM,MEDIUM
+Public water cooler filters dirty and dispensing contaminated water,Public Health,MEDIUM,HIGH
+Public water cooler filters dirty and dispensing contaminated water near the main market.,Public Health,MEDIUM,HIGH
+Public water cooler filters dirty and dispensing contaminated water at cross road 4.,Public Health,MEDIUM,HIGH
+Public water cooler filters dirty and dispensing contaminated water behind the bus terminal.,Public Health,MEDIUM,HIGH
+Fallen tree branch crushing children play swings in colony park,Parks & Environment,HIGH,HIGH
+Fallen tree branch crushing children play swings in colony park near the main market.,Parks & Environment,HIGH,HIGH
+Fallen tree branch crushing children play swings in colony park at cross road 4.,Parks & Environment,HIGH,HIGH
+Fallen tree branch crushing children play swings in colony park behind the bus terminal.,Parks & Environment,HIGH,HIGH
+Large dead tree about to fall onto walking path in public garden,Parks & Environment,HIGH,HIGH
+Large dead tree about to fall onto walking path in public garden near the main market.,Parks & Environment,HIGH,HIGH
+Large dead tree about to fall onto walking path in public garden at cross road 4.,Parks & Environment,HIGH,HIGH
+Large dead tree about to fall onto walking path in public garden behind the bus terminal.,Parks & Environment,HIGH,HIGH
+Lake water turning green with chemical pollution and foul smell,Parks & Environment,CRITICAL,URGENT
+Lake water turning green with chemical pollution and foul smell near the main market.,Parks & Environment,CRITICAL,URGENT
+Lake water turning green with chemical pollution and foul smell at cross road 4.,Parks & Environment,CRITICAL,URGENT
+Lake water turning green with chemical pollution and foul smell behind the bus terminal.,Parks & Environment,CRITICAL,URGENT
+Children slide broken with exposed rusted iron nails in play area,Parks & Environment,HIGH,HIGH
+Children slide broken with exposed rusted iron nails in play area near the main market.,Parks & Environment,HIGH,HIGH
+Children slide broken with exposed rusted iron nails in play area at cross road 4.,Parks & Environment,HIGH,HIGH
+Children slide broken with exposed rusted iron nails in play area behind the bus terminal.,Parks & Environment,HIGH,HIGH
+Unauthorized chopping of shade trees along municipal avenue,Parks & Environment,HIGH,HIGH
+Unauthorized chopping of shade trees along municipal avenue near the main market.,Parks & Environment,HIGH,HIGH
+Unauthorized chopping of shade trees along municipal avenue at cross road 4.,Parks & Environment,HIGH,HIGH
+Unauthorized chopping of shade trees along municipal avenue behind the bus terminal.,Parks & Environment,HIGH,HIGH
+Park lights smashed and broken beer bottles littered on grass,Parks & Environment,MEDIUM,MEDIUM
+Park lights smashed and broken beer bottles littered on grass near the main market.,Parks & Environment,MEDIUM,MEDIUM
+Park lights smashed and broken beer bottles littered on grass at cross road 4.,Parks & Environment,MEDIUM,MEDIUM
+Park lights smashed and broken beer bottles littered on grass behind the bus terminal.,Parks & Environment,MEDIUM,MEDIUM
+Park boundary fence broken stray dogs and pigs roaming inside,Parks & Environment,MEDIUM,MEDIUM
+Park boundary fence broken stray dogs and pigs roaming inside near the main market.,Parks & Environment,MEDIUM,MEDIUM
+Park boundary fence broken stray dogs and pigs roaming inside at cross road 4.,Parks & Environment,MEDIUM,MEDIUM
+Park boundary fence broken stray dogs and pigs roaming inside behind the bus terminal.,Parks & Environment,MEDIUM,MEDIUM
+Jogging track paving broken and muddy after rain,Parks & Environment,LOW,LOW
+Jogging track paving broken and muddy after rain near the main market.,Parks & Environment,LOW,LOW
+Jogging track paving broken and muddy after rain at cross road 4.,Parks & Environment,LOW,LOW
+Jogging track paving broken and muddy after rain behind the bus terminal.,Parks & Environment,LOW,LOW
+Water fountain pump burnt out water turned into dirty slime,Parks & Environment,LOW,LOW
+Water fountain pump burnt out water turned into dirty slime near the main market.,Parks & Environment,LOW,LOW
+Water fountain pump burnt out water turned into dirty slime at cross road 4.,Parks & Environment,LOW,LOW
+Water fountain pump burnt out water turned into dirty slime behind the bus terminal.,Parks & Environment,LOW,LOW
+Encroachment of public green park by private car parking,Parks & Environment,MEDIUM,MEDIUM
+Encroachment of public green park by private car parking near the main market.,Parks & Environment,MEDIUM,MEDIUM
+Encroachment of public green park by private car parking at cross road 4.,Parks & Environment,MEDIUM,MEDIUM
+Encroachment of public green park by private car parking behind the bus terminal.,Parks & Environment,MEDIUM,MEDIUM
+Civic complaint helpline number not being answered for days,Other,MEDIUM,MEDIUM
+Civic complaint helpline number not being answered for days near the main market.,Other,MEDIUM,MEDIUM
+Civic complaint helpline number not being answered for days at cross road 4.,Other,MEDIUM,MEDIUM
+Civic complaint helpline number not being answered for days behind the bus terminal.,Other,MEDIUM,MEDIUM
+Loud commercial speakers blasting past midnight in residential area,Other,HIGH,HIGH
+Loud commercial speakers blasting past midnight in residential area near the main market.,Other,HIGH,HIGH
+Loud commercial speakers blasting past midnight in residential area at cross road 4.,Other,HIGH,HIGH
+Loud commercial speakers blasting past midnight in residential area behind the bus terminal.,Other,HIGH,HIGH
+Municipal staff demanding cash bribe for birth and death certificates,Other,HIGH,HIGH
+Municipal staff demanding cash bribe for birth and death certificates near the main market.,Other,HIGH,HIGH
+Municipal staff demanding cash bribe for birth and death certificates at cross road 4.,Other,HIGH,HIGH
+Municipal staff demanding cash bribe for birth and death certificates behind the bus terminal.,Other,HIGH,HIGH
+Community library ceiling leaking water over books and wiring,Other,HIGH,HIGH
+Community library ceiling leaking water over books and wiring near the main market.,Other,HIGH,HIGH
+Community library ceiling leaking water over books and wiring at cross road 4.,Other,HIGH,HIGH
+Community library ceiling leaking water over books and wiring behind the bus terminal.,Other,HIGH,HIGH
+Public monument defaced with spray paint and posters,Other,LOW,LOW
+Public monument defaced with spray paint and posters near the main market.,Other,LOW,LOW
+Public monument defaced with spray paint and posters at cross road 4.,Other,LOW,LOW
+Public monument defaced with spray paint and posters behind the bus terminal.,Other,LOW,LOW
+Municipal office premises full of uncleaned cobwebs and broken chairs,Other,LOW,LOW
+Municipal office premises full of uncleaned cobwebs and broken chairs near the main market.,Other,LOW,LOW
+Municipal office premises full of uncleaned cobwebs and broken chairs at cross road 4.,Other,LOW,LOW
+Municipal office premises full of uncleaned cobwebs and broken chairs behind the bus terminal.,Other,LOW,LOW
+Unauthorized advertising flex banners obstructing road view,Other,LOW,LOW
+Unauthorized advertising flex banners obstructing road view near the main market.,Other,LOW,LOW
+Unauthorized advertising flex banners obstructing road view at cross road 4.,Other,LOW,LOW
+Unauthorized advertising flex banners obstructing road view behind the bus terminal.,Other,LOW,LOW
+Citizen facilitation center token system down causing long queues,Other,MEDIUM,MEDIUM
+Citizen facilitation center token system down causing long queues near the main market.,Other,MEDIUM,MEDIUM
+Citizen facilitation center token system down causing long queues at cross road 4.,Other,MEDIUM,MEDIUM
+Citizen facilitation center token system down causing long queues behind the bus terminal.,Other,MEDIUM,MEDIUM
+Noise pollution from banquet hall fireworks late at night,Other,MEDIUM,MEDIUM
+Noise pollution from banquet hall fireworks late at night near the main market.,Other,MEDIUM,MEDIUM
+Noise pollution from banquet hall fireworks late at night at cross road 4.,Other,MEDIUM,MEDIUM
+Noise pollution from banquet hall fireworks late at night behind the bus terminal.,Other,MEDIUM,MEDIUM
+Public bulletin board glass shattered on sidewalk,Other,LOW,LOW
+Public bulletin board glass shattered on sidewalk near the main market.,Other,LOW,LOW
+Public bulletin board glass shattered on sidewalk at cross road 4.,Other,LOW,LOW
+Public bulletin board glass shattered on sidewalk behind the bus terminal.,Other,LOW,LOW

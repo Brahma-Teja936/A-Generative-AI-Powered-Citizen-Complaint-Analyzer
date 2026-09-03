@@ -1,0 +1,31 @@
+Complaint_Text,APCCD_Category,Department,Priority,Severity,Sentiment
+"A group of stray dogs has become aggressive near the village school and children are afraid to walk to class.",Animal Welfare,Animal Welfare Department,High,High,Negative
+"Several injured cattle have been left unattended near the municipal market and require immediate rescue.",Animal Welfare,Animal Welfare Department,High,High,Negative
+"Large cracks have appeared in the ceiling of the government community hall and pieces of plaster are falling down.",Building Maintenance,Building Department,High,Critical,Negative
+"The public library building has developed severe wall damage and rainwater enters the reading area.",Building Maintenance,Building Department,Medium,High,Negative
+"Unauthorized construction is blocking the public pathway leading to houses in our colony.",Encroachment,Municipal Administration,High,High,Negative
+"A shopkeeper has extended the structure onto the footpath, leaving almost no space for pedestrians.",Encroachment,Municipal Administration,Medium,Medium,Negative
+"Food served at a roadside restaurant appears unhygienic and several customers complained of stomach problems.",Food Safety,Health Department,High,High,Negative
+"The meat shop near the bus stand is operating in extremely unhygienic conditions with waste left uncovered.",Food Safety,Health Department,High,High,Negative
+"Loudspeakers from a nearby wedding function continue past midnight and residents cannot sleep.",Noise Pollution,Pollution Control Board,Medium,High,Negative
+"Continuous drilling and machinery noise from a construction site is disturbing families throughout the day.",Noise Pollution,Pollution Control Board,Medium,Medium,Negative
+"Several old trees in the public park have fallen after heavy rain and are blocking the walking area.",Parks & Trees,Parks Department,Medium,Medium,Negative
+"The children's playground has overgrown weeds and damaged trees, making the park unsafe for visitors.",Parks & Trees,Parks Department,Medium,Medium,Negative
+"Stagnant water near our residential area has become a breeding place for mosquitoes and residents fear disease outbreaks.",Public Health,Health Department,High,High,Negative
+"A large number of mosquitoes are spreading around the colony because open drains have not been treated.",Public Health,Health Department,High,High,Negative
+"The broken boundary wall of the public school could collapse onto students during school hours.",Public Property,Municipal Engineering Department,High,Critical,Negative
+"Government benches and public facilities at the bus stand have been badly damaged and need repair.",Public Property,Municipal Engineering Department,Medium,Medium,Negative
+"An uncovered electrical cable is lying across a busy street and could cause a serious accident.",Public Safety,Electrical Department,High,Critical,Negative
+"The damaged railing on the bridge creates a dangerous situation for pedestrians and two-wheeler riders.",Public Safety,Municipal Engineering Department,High,High,Negative
+"Deep potholes have formed on the road connecting our village to the main highway after the monsoon rains.",Roads,Roads & Buildings,High,High,Negative
+"The road near the government hospital is badly broken and ambulances are facing difficulty reaching the entrance.",Roads,Roads & Buildings,High,Critical,Negative
+"Garbage has remained uncollected in our colony for nearly a week and a strong foul smell is spreading.",Sanitation,Sanitation Department,High,High,Negative
+"Overflowing waste near the vegetable market is attracting stray animals and creating an unhygienic environment.",Sanitation,Sanitation Department,Medium,High,Negative
+"Dirty wastewater is overflowing from a blocked drain and entering houses during heavy rainfall.",Sewer & Drainage,Water & Sewerage,High,Critical,Negative
+"The underground drainage line near our street is blocked, causing sewage water to collect on the road.",Sewer & Drainage,Water & Sewerage,High,High,Negative
+"Streetlights along the road to our village have not been functioning for several nights, making travel unsafe.",Street Lights,Electrical Department,Medium,High,Negative
+"The lamp posts near the bus stop remain switched off after sunset and women feel unsafe waiting there.",Street Lights,Electrical Department,High,High,Negative
+"Vehicles are being parked on both sides of the narrow market road, causing severe traffic congestion every evening.",Traffic & Parking,Traffic Department,Medium,Medium,Negative
+"Illegal parking near the railway crossing is blocking emergency vehicles and creating long traffic delays.",Traffic & Parking,Traffic Police,High,High,Negative
+"Our colony has not received municipal drinking water for the past four days and families are struggling.",Water Supply,Water Department,High,High,Negative
+"Muddy and foul-smelling water is coming through the public tap connection and residents are afraid to use it.",Water Supply,Water Department,High,High,Negative
