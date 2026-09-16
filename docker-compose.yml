@@ -1,0 +1,66 @@
+# CivicAI Multi-Service Docker Compose Setup
+version: '3.8'
+
+services:
+  # MongoDB Local Database (for development/standalone deployment)
+  mongodb:
+    image: mongo:7.0
+    container_name: civicai_mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    environment:
+      MONGO_INITDB_DATABASE: civicai_db
+    networks:
+      - civicai_network
+
+  # Flask REST API Backend with ML & Groq Pipeline
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: civicai_backend
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=production
+      - MONGO_URI=mongodb://mongodb:27017/civicai_db
+      - MONGO_DB_NAME=civicai_db
+      - JWT_SECRET=civicai-production-super-secret-jwt-key-991283
+      - GROQ_API_KEY=${GROQ_API_KEY:-gsk_dummy_key}
+      - INITIAL_SUPER_ADMIN_EMAIL=superadmin@civicai.gov
+      - INITIAL_SUPER_ADMIN_USERNAME=superadmin
+      - INITIAL_SUPER_ADMIN_PASSWORD=SuperAdminCivicAI@2026!
+      - PORT=5000
+    depends_on:
+      - mongodb
+    volumes:
+      - ./backend/uploads:/app/uploads
+      - ./models:/app/models
+    networks:
+      - civicai_network
+
+  # React + Vite Frontend
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: civicai_frontend
+    restart: unless-stopped
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    networks:
+      - civicai_network
+
+volumes:
+  mongo_data:
+    driver: local
+
+networks:
+  civicai_network:
+    driver: bridge

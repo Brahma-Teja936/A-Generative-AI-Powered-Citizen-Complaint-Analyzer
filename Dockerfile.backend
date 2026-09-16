@@ -1,0 +1,28 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy backend requirements
+COPY backend/requirements.txt /app/requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy dataset, models, and application code
+COPY dataset /app/dataset
+COPY models /app/models
+COPY backend /app/backend
+
+# Create uploads and logs directory
+RUN mkdir -p /app/uploads /app/logs
+
+EXPOSE 5000
+
+ENV FLASK_APP=backend/run.py
+ENV PYTHONPATH=/app
+
+CMD ["gunicorn", "--bind", "0.0.0.0:5000", "--workers", "3", "--timeout", "120", "backend.run:app"]
