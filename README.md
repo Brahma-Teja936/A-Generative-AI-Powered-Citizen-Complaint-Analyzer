@@ -148,6 +148,6 @@ python -m pytest tests/ -v
 
 | Role | Identifier / Email | Default Password |
 |---|---|---|
-| **SUPER_ADMIN** | `superadmin@civicai.gov` (or `superadmin`) | `SuperAdminCivicAI@2026!` |
+| **SUPER_ADMIN** | `****************` (or `****************`) | `**************` |
 | **Citizen (Test)** | Auto-registers at `/register` | User chosen |
 | **Department** | Created via `/admin/departments` | Admin allocated |
